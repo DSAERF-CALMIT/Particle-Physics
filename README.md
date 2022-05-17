@@ -1,4 +1,4 @@
-# Particle-Physcs
+# Particle-Physics
 There will be a repository about QM after I finished the notes for PP.
 
 
